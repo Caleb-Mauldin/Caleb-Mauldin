@@ -1,8 +1,6 @@
-👋 Hey there, I’m @Caleb-Mauldin
+👋 Hey there!
 
-I'm a Senior Linux Engineer who loves scripting (Perl, Python, Bash) and automation. 
-
-I'm currently learning AWS and Kubernetes administration. 
+I'm a Senior Linux Engineer at A2 Hosting who loves scripting (Perl, Python, Bash) and automation. 
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/calebmauldin/). 
 
