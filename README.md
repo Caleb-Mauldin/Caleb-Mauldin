@@ -1,8 +1,8 @@
 👋 Hey there!
 
-I'm a Senior Linux Engineer at A2 Hosting who loves scripting (Perl, Python, Bash) and automation. 
+I'm currently employed as a Senior Linux Engineer at A2 Hosting who loves to script! Python, Perl and Bash, mostly. 
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/calebmauldin/). 
+[LinkedIn](https://www.linkedin.com/in/calebmauldin/)
 
 <!---
 Caleb-Mauldin/Caleb-Mauldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
