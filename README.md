@@ -1,9 +1,9 @@
 
-👋 `print(Hello, World!)`
+ `print("Hey there 👋")`
 
-🖥️ Problem Solver | Automation Fanatic
+🖥️ Problem Solver | Linux Geek
 
-Welcome to my corner of GitHub! With 18 years of experience navigating high-availability, Linux-driven environments, I’m constantly exploring ways to optimize, automate, and streamline systems.
+Welcome to my corner of GitHub! Just a guy who loves to troubleshoot and write code =)
 
 [LinkedIn](https://www.linkedin.com/in/calebmauldin/)
 <!---
