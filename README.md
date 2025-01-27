@@ -1,5 +1,9 @@
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJwYjQ2YWgyMmV6azdqYjkybmx4ZWlwaDFhaWt1MjNwaHBkOThvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBBRs81dGWHIY/giphy.gif" alt="Descriptive Text for the GIF" />
+👋 `print(Hello, World!)`
+
+🖥️ Problem Solver | Automation Fanatic
+
+Welcome to my corner of GitHub! With 18 years of experience navigating high-availability, Linux-driven environments, I’m constantly exploring ways to optimize, automate, and streamline systems.
 
 [LinkedIn](https://www.linkedin.com/in/calebmauldin/)
 <!---
